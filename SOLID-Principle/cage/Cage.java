@@ -16,7 +16,7 @@ public class Cage {
 	private Door door;
 
 	/*
-	 * This class is not tightly coupled with any high level entities rather they
+	 * This class is not tightly coupled with any low level detailed entities rather they
 	 * tightly coupled with high level abstraction. This class follows Dependency
 	 * Inversion principle.
 	 */
