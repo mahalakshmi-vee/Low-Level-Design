@@ -11,53 +11,53 @@ It provides the foundation for high-level design, which defines a system's overa
    
    Creational Design Patterns
    
-               * Singleton
+               1. Singleton
    
-               * Factory Method
+               2. Factory Method
    
-               * Abstract Factory Method
+               3. Abstract Factory Method
    
-               * Prototype
+               4. Prototype
    
-               * Builder
+               5. Builder
    
    Structural Design Patterns
    
-               * Adapter
+               1. Adapter
    
-               * Bridge
+               2. Bridge
    
-               * Composite
+               3. Composite
    
-               * Decorator
+               4. Decorator
    
-               * Facade
+               5. Facade
    
-               * Flyweight
+               6. Flyweight
    
-               * Proxy
+               7. Proxy
    
    Observer Design Patterns
    
-               * Chain of Responsibility
+               1. Chain of Responsibility
    
-               * Command
+               2. Command
    
-               * Iterator
+               3. Iterator
    
-               * Mediator
+               4. Mediator
    
-               * Memento
+               5. Memento
    
-               * Observer
+               6. Observer
    
-               * State
+               7. State
    
-               * Strategy
+               8. Strategy
    
-               * Template Method
+               9. Template Method
    
-               * Visitor
+               10. Visitor
    
 5. UML Diagrams
 7. Data Structures & Algorithms
