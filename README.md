@@ -45,9 +45,9 @@ It provides the foundation for high-level design, which defines a system's overa
 
 7. Steps involved in low-level design:
 
-      - Clarify Requirements
-      - Identify Entities
-      - Class Design
-      - Implementation
-      - Exception Handling
+            - Clarify Requirements
+            - Identify Entities
+            - Class Design
+            - Implementation
+            - Exception Handling
 
