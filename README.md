@@ -8,7 +8,7 @@ It provides the foundation for high-level design, which defines a system's overa
 2. SOLID Principles
 3. Design Patterns
    
-      Creational Design Patterns
+      * Creational Design Patterns
    
                - Singleton
                - Factory Method
@@ -16,7 +16,7 @@ It provides the foundation for high-level design, which defines a system's overa
                - Prototype
                - Builder
    
-      Structural Design Patterns
+      * Structural Design Patterns
    
                - Adapter
                - Bridge
@@ -26,7 +26,7 @@ It provides the foundation for high-level design, which defines a system's overa
                - Flyweight
                - Proxy
    
-      Observer Design Patterns
+      * Observer Design Patterns
    
                - Chain of Responsibility  
                - Command
