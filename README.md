@@ -1,4 +1,5 @@
 𝗟𝗼𝘄-𝗹𝗲𝘃𝗲𝗹 𝗱𝗲𝘀𝗶𝗴𝗻:
+
 Low-level design is the process of specifying and defining the detailed design of a software system. 
 This type of design focuses on the implementation details of a system and is concerned with how the system will be built and how it will function at a detailed level.
 It provides the foundation for high-level design, which defines a system's overall architecture and design.
