@@ -10,6 +10,7 @@ It provides the foundation for high-level design, which defines a system's overa
 3. Design Patterns
    
    Creational Design Patterns
+   
                * Singleton
    
                * Factory Method
@@ -21,6 +22,7 @@ It provides the foundation for high-level design, which defines a system's overa
                * Builder
    
    Structural Design Patterns
+   
                * Adapter
    
                * Bridge
@@ -36,6 +38,7 @@ It provides the foundation for high-level design, which defines a system's overa
                * Proxy
    
    Observer Design Patterns
+   
                * Chain of Responsibility
    
                * Command
