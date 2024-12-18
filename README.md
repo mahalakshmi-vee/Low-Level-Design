@@ -8,11 +8,11 @@ It provides the foundation for high-level design, which defines a system's overa
 2. SOLID Principles
 3. Design Patterns
      i.   Creational Design Patterns
-               a. Singleton
-               b. Factory Method
-               c. Abstract Factory Method
-               d. Prototype
-               e. Builder
+               * Singleton
+               * Factory Method
+               * Abstract Factory Method
+               * Prototype
+               * Builder
      ii.  Structural Design Patterns
                a. Adapter
                b. Bridge
