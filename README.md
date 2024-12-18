@@ -10,15 +10,11 @@ It provides the foundation for high-level design, which defines a system's overa
    
    Creational Design Patterns
    
-               1. Singleton
-   
-               2. Factory Method
-   
-               3. Abstract Factory Method
-   
-               4. Prototype
-   
-               5. Builder
+               - Singleton
+               - Factory Method
+               - Abstract Factory Method
+               - Prototype
+               - Builder
    
    Structural Design Patterns
    
