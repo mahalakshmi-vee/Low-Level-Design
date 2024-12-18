@@ -7,9 +7,7 @@ It provides the foundation for high-level design, which defines a system's overa
 1. Object-Oriented Programming (OOP)
 2. SOLID Principles
 3. Design Patterns
-   
    Creational Design Patterns
-   
                - Singleton
                - Factory Method
                - Abstract Factory Method
