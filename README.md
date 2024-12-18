@@ -7,7 +7,9 @@ It provides the foundation for high-level design, which defines a system's overa
 1. Object-Oriented Programming (OOP)
 2. SOLID Principles
 3. Design Patterns
+   
    Creational Design Patterns
+   
                - Singleton
                - Factory Method
                - Abstract Factory Method
@@ -16,41 +18,26 @@ It provides the foundation for high-level design, which defines a system's overa
    
    Structural Design Patterns
    
-               1. Adapter
-   
-               2. Bridge
-   
-               3. Composite
-   
-               4. Decorator
-   
-               5. Facade
-   
-               6. Flyweight
-   
-               7. Proxy
+               - Adapter
+               - Bridge
+               - Composite
+               - Decorator
+               - Facade
+               - Flyweight
+               - Proxy
    
    Observer Design Patterns
    
-               1. Chain of Responsibility
-   
-               2. Command
-   
-               3. Iterator
-   
-               4. Mediator
-   
-               5. Memento
-   
-               6. Observer
-   
-               7. State
-   
-               8. Strategy
-   
-               9. Template Method
-   
-               10. Visitor
+               - Chain of Responsibility  
+               - Command
+               - Iterator
+               - Mediator
+               - Memento
+               - Observer
+               - State
+               - Strategy
+               - Template Method
+               - Visitor
    
 5. UML Diagrams
 7. Data Structures & Algorithms
