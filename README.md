@@ -4,11 +4,11 @@ This type of design focuses on the implementation details of a system and is con
 It provides the foundation for high-level design, which defines a system's overall architecture and design.
 
 # Techniques used to build low-level design:
-1. Object-Oriented Programming (OOP)
-2. SOLID Principles
-3. Design Patterns
+## Object-Oriented Programming (OOP)
+## SOLID Principles
+## Design Patterns
    
-   Creational Design Patterns
+   ### Creational Design Patterns
    
                - Singleton
                - Factory Method
@@ -16,7 +16,7 @@ It provides the foundation for high-level design, which defines a system's overa
                - Prototype
                - Builder
    
-   Structural Design Patterns
+   ### Structural Design Patterns
    
                - Adapter
                - Bridge
@@ -26,7 +26,7 @@ It provides the foundation for high-level design, which defines a system's overa
                - Flyweight
                - Proxy
    
-   Observer Design Patterns
+   ### Observer Design Patterns
    
                - Chain of Responsibility  
                - Command
@@ -39,9 +39,9 @@ It provides the foundation for high-level design, which defines a system's overa
                - Template Method
                - Visitor
    
-5. UML Diagrams
-7. Data Structures & Algorithms
-8. Database Design
+## UML Diagrams
+## Data Structures & Algorithms
+## Database Design
 
 # Steps involved in low-level design:
 1. Clarify Requirements
