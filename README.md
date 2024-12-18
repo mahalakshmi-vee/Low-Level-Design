@@ -8,12 +8,14 @@ It provides the foundation for high-level design, which defines a system's overa
 1. Object-Oriented Programming (OOP)
 2. SOLID Principles
 3. Design Patterns
+   
    Creational Design Patterns
                * Singleton
                * Factory Method
                * Abstract Factory Method
                * Prototype
                * Builder
+   
    Structural Design Patterns
                * Adapter
                * Bridge
@@ -22,6 +24,7 @@ It provides the foundation for high-level design, which defines a system's overa
                * Facade
                * Flyweight
                * Proxy
+   
    Observer Design Patterns
                * Chain of Responsibility
                * Command
@@ -33,6 +36,7 @@ It provides the foundation for high-level design, which defines a system's overa
                * Strategy
                * Template Method
                * Visitor
+   
 5. UML Diagrams
 7. Data Structures & Algorithms
 8. Database Design
