@@ -51,3 +51,12 @@ It provides the foundation for high-level design, which defines a system's overa
       - Implementation
       - Exception Handling
 
+<details>
+<ol>
+<li>Clone the repository</li>
+<li>Run `npm install`</li>
+<li>Start the server with `npm start`</li>
+</ol>
+</details>
+
+
