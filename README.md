@@ -53,10 +53,10 @@ It provides the foundation for high-level design, which defines a system's overa
 
 | Design Pattern           | When to use   |
 | ------------------------ | ------------- |
-| Singleton                | Content Cell  |
+| Singleton                | When you need to ensure a class has only one instance and provide a global access point.  |
 | Factory Method           | Content Cell  |
 | Abstract Factory Method  | Content Cell  |
-| Prototype                | Content Cell  |
+| Prototype                | When you need to create exact copies of objects without knowing the exact class of the object.  |
 | Builder                  | Content Cell  |
 | Adapter                  | Content Cell  |
 | Bridge                   | Content Cell  |
@@ -66,14 +66,14 @@ It provides the foundation for high-level design, which defines a system's overa
 | Flyweight                | Content Cell  |
 | Proxy                    | Content Cell  |
 | Decorator                | Content Cell  |
-| Chain of Responsibility  | Content Cell  |
+| Chain of Responsibility  | When you need to pass a request through a chain of handlers, where each handler can process it or pass it on.  |
 | Command                  | Content Cell  |
 | Iterator                 | Content Cell  |
 | Mediator                 | Content Cell  |
 | Memento                  | Content Cell  |
 | Observer                 | Content Cell  |
 | State                    | Content Cell  |
-| Strategy                 | Content Cell  |
+| Strategy                 | When you have multiple algorithms that can be applied to a given task, but you want to choose the most appropriate one dynamically at runtime. |
 | Template Method          | Content Cell  |
 | Visitor                  | Content Cell  |
 
