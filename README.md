@@ -51,9 +51,30 @@ It provides the foundation for high-level design, which defines a system's overa
       - Implementation
       - Exception Handling
 
-| Design Pattern  | When to use |
-| --------------- | ------------- |
-| Singleton       | Content Cell  |
-| Factory         | Content Cell  |
+| Design Pattern           | When to use   |
+| ------------------------ | ------------- |
+| Singleton                | Content Cell  |
+| Factory Method           | Content Cell  |
+| Abstract Factory Method  | Content Cell  |
+| Prototype                | Content Cell  |
+| Builder                  | Content Cell  |
+| Adapter                  | Content Cell  |
+| Bridge                   | Content Cell  |
+| Composite                | Content Cell  |
+| Decorator                | Content Cell  |
+| Facade                   | Content Cell  |
+| Flyweight                | Content Cell  |
+| Proxy                    | Content Cell  |
+| Decorator                | Content Cell  |
+| Chain of Responsibility  | Content Cell  |
+| Command                  | Content Cell  |
+| Iterator                 | Content Cell  |
+| Mediator                 | Content Cell  |
+| Memento                  | Content Cell  |
+| Observer                 | Content Cell  |
+| State                    | Content Cell  |
+| Strategy                 | Content Cell  |
+| Template Method          | Content Cell  |
+| Visitor                  | Content Cell  |
 
 
