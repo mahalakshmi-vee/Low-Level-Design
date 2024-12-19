@@ -6,7 +6,7 @@ It provides the foundation for high-level design, which defines a system's overa
 #### Techniques used to build low-level design:
 1. Object-Oriented Programming (OOP)
 2. SOLID Principles
-3. Design Patterns
+3. Design Patterns: are solutions to very commonly occurring problems.
    
       * Creational Design Patterns
    
